@@ -1,2 +1,2 @@
-# In this repository my assignments for Python Programming for Business Intelligence can be found
+#This repository contains my assignments for Python Programming for Business Intelligence 
 
